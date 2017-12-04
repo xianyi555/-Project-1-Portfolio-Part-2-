@@ -1,2 +1,3 @@
-# -Project-1-Portfolio-Part-2-
-First week assignment
+#Portfolio-2. First week assignment of project
+
+

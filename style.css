@@ -1,0 +1,93 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	background-image: url("http://eztechtraining.com/wp-content/uploads/2012/10/house11.jpg");
+	background-size: 100% 95%;
+	background-repeat: no-repeat;
+    font-family: helvetica;
+    font-size: 22px; 
+
+}
+
+.bar{
+	margin-top: 10px;
+    margin-left: 800px;
+    font-size: 16px;
+    border-bottom: 100px;
+    font-family: palatino;
+}
+.signin{
+	
+	margin-right: 3px;
+	border-radius: 10px;
+	background-color: SpringGreen;
+}
+
+.join{
+	
+	margin-left: 5px;
+	margin-right: 10px;
+	border-radius: 7px;
+	background-color: SpringGreen;
+}
+
+input[type="submit"] {
+	background-color: SkyBlue;
+	margin-left: 10px;
+	border-radius: 6px;
+
+}
+
+input[placeholder="Search your home"] {
+  
+    border-radius: 8px;
+}
+
+
+
+
+nav {
+	margin-left: 60px;
+	padding:0px 20px 10px 20px;
+}
+
+h1 {
+	margin-left: 5%;
+	margin-top: 3%;
+
+}
+
+.button {
+	font-size: 20px;
+	color: Moccasin;
+}
+
+p {
+	color: black;
+	padding: 20px 30px;
+
+}
+
+a {
+
+}	
+
+footer {
+	margin-top: 35px;
+	background-color: #E0FFFF;
+
+	text-align: center;
+}
+
+.copyright {
+	font-size: 15px;
+}
+
+.message {
+	font-size: 18px;
+}
+
+
